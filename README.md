@@ -8,3 +8,6 @@ a command line spinner.  spinnerExample.exe will print "halo spinner example" ut
 ## Usage:
 From a Windows machine you can execute spinnerExample.exe from the command line or
 by double clicking on the spinnerExample.exe executable.
+## Dependencies
+- **halo** - module for building spinners
+- **colorama** - module for producing colored text and background
